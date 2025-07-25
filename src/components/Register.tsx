@@ -210,7 +210,7 @@ const SchoolRegistrationForm: React.FC = () => {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                chat_id: '-4814741361', // Bu yerga o'z chat ID'ingizni qo'ying
+                chat_id: '-1002629133065', // Bu yerga o'z chat ID'ingizni qo'ying
                 text: message,
                 parse_mode: 'HTML'
             }),
