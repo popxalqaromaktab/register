@@ -141,10 +141,11 @@ const SchoolRegistrationForm: React.FC = () => {
     const [openSnackbar, setOpenSnackbar] = useState(false);
 
     const tumanlar = [
-        'Pop tumani',
-        'Chust tumani',
-        'Mingbuloq tumani',
-        'Qo\'qon tumani',
+        'Pop tuman',
+        'Chust tuman',
+        'Mingbuloq tuman',
+        'Qo\'qon tuman',
+        "Boshqa"
     ];
 
     const sinflar = [
